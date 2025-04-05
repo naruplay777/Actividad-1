@@ -1,0 +1,4 @@
+Nombre y Apellido: Andres Gonzalez
+Cedula: 30303955
+Seccion: B
+Un poco sobre mi: Hola :D Denme chamba
