@@ -4,7 +4,7 @@ Este es un proyecto para la práctica evaluada de la asignatura [Interfaces Web 
 
 ## Descripción
 
-[Mis Colaboladores rellenaran este parte]
+este proyecto consiste en una practica simple sobre el uso de las ramificaciones de git y sus ventajas -Diego Alvarez
 
 ## Instalación
 
